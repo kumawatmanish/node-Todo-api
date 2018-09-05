@@ -41,6 +41,6 @@ describe('POST /todo', () => {
             if(err)
               return document(err);
         })
-    });
+    } );
     
 });
